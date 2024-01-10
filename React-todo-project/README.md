@@ -7,8 +7,4 @@
 -   npm install
 -   npm start
 
-## Template Includes
 
--   react-icons
--   Eslint
--   Prettier
