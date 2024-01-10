@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## How to use the template?
+## How to run this project?
 
 -   fork
 -   clone to your local machine
