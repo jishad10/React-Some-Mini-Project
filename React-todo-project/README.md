@@ -6,6 +6,6 @@
 -   npm install
 -   npm start
 
-## This project base on useState
+## This project based on useState
 
 
