@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Focused On
 
-Basically this project focuesd on useSate && useEffect
+Basically this project focuesd on <b>useSate && useEffect</b>
 
 ## Available Scripts
 
